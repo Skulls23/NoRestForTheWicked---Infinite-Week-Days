@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Skulls23.NoRestForTheWicked")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+543c330d5c18ac70559bcd9f9e87bee0d8fc65ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6d96f92160596de192633a576a12d2ea1faa8f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoRestForTheWicked - Infinite Week Days")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Skulls23.NoRestForTheWicked")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

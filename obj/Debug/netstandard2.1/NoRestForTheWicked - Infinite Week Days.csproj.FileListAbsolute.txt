@@ -1,0 +1,13 @@
+A:\ModDev\ContentWarning\NoRestForTheWicked - Infinite Week Days\bin\Debug\netstandard2.1\Skulls23.NoRestForTheWicked.deps.json
+A:\ModDev\ContentWarning\NoRestForTheWicked - Infinite Week Days\bin\Debug\netstandard2.1\Skulls23.NoRestForTheWicked.dll
+A:\ModDev\ContentWarning\NoRestForTheWicked - Infinite Week Days\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+A:\ModDev\ContentWarning\NoRestForTheWicked - Infinite Week Days\obj\Debug\netstandard2.1\NoRestForTheWicked - Infinite Week Days.csproj.AssemblyReference.cache
+A:\ModDev\ContentWarning\NoRestForTheWicked - Infinite Week Days\obj\Debug\netstandard2.1\NoRestForTheWicked - Infinite Week Days.IgnoresAccessChecksTo.cs
+A:\ModDev\ContentWarning\NoRestForTheWicked - Infinite Week Days\obj\Debug\netstandard2.1\MyPluginInfo.cs
+A:\ModDev\ContentWarning\NoRestForTheWicked - Infinite Week Days\obj\Debug\netstandard2.1\NoRestForTheWicked - Infinite Week Days.GeneratedMSBuildEditorConfig.editorconfig
+A:\ModDev\ContentWarning\NoRestForTheWicked - Infinite Week Days\obj\Debug\netstandard2.1\NoRestForTheWicked - Infinite Week Days.AssemblyInfoInputs.cache
+A:\ModDev\ContentWarning\NoRestForTheWicked - Infinite Week Days\obj\Debug\netstandard2.1\NoRestForTheWicked - Infinite Week Days.AssemblyInfo.cs
+A:\ModDev\ContentWarning\NoRestForTheWicked - Infinite Week Days\obj\Debug\netstandard2.1\NoRestForTheWicked - Infinite Week Days.csproj.CoreCompileInputs.cache
+A:\ModDev\ContentWarning\NoRestForTheWicked - Infinite Week Days\obj\Debug\netstandard2.1\NoRestForTheWicked - Infinite Week Days.sourcelink.json
+A:\ModDev\ContentWarning\NoRestForTheWicked - Infinite Week Days\obj\Debug\netstandard2.1\NoRestFo.B281E76D.Up2Date
+A:\ModDev\ContentWarning\NoRestForTheWicked - Infinite Week Days\obj\Debug\netstandard2.1\Skulls23.NoRestForTheWicked.dll
